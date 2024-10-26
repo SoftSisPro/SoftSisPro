@@ -4,7 +4,7 @@ Bienvenido a mi repositorio de proyectos. Soy un desarrollador full stack con ex
 
 ## 📚 Sobre Mí
 
-- **Nombre:** [Tu Nombre]
+- **Nombre:** Jan Carlos Jaimes Liones
 - **Rol:** Desarrollador Full Stack
 - **Habilidades:** 
   - PHP (Nativo y Laravel)
